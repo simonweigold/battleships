@@ -1,11 +1,11 @@
 # battleships
 
 #Rules
-10x10 grid with 4 ships (5,4,3,2)
-One grid with randomly assigned ships (computer_board)
-One grid where the player can place their own ships (player_board)
-Player can make a guess on computer_board. This is stored in a separate working board (computer_board_hits)
-Computer makes a guess on player_board. This is stored in a separate working board (player_board_hits)
+1. 10x10 grid with 4 ships (5,4,3,2)
+2. One grid with randomly assigned ships (computer_board)
+3. One grid where the player can place their own ships (player_board)
+4. Player can make a guess on computer_board. This is stored in a separate working board (computer_board_hits)
+5. Computer makes a guess on player_board. This is stored in a separate working board (player_board_hits)
 
 #Game flow
 1. print player_board
